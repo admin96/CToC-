@@ -1,6 +1,6 @@
 # CToCSharp
 ###### Usage
-CToCS -i [C source filename] -o [Output filename]
+CToCS -i [C source filename] -o [output filename]
 
 ###### Features
 
